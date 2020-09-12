@@ -7,3 +7,4 @@ KiCAD footprints:
 - https://github.com/KiCad/kicad-footprints
 - https://github.com/forrestbao/arduino-kicad-library
 - https://github.com/sparkfun/SparkFun-KiCad-Libraries
+- https://github.com/daprice/keyswitches.pretty
